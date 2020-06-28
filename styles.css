@@ -99,7 +99,7 @@ li {
 .primary-nav {
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: 50%;
   padding: 20px 10%;
   font-weight: bold;
   text-decoration: none;
@@ -183,7 +183,7 @@ li {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  right: 250px;
   top: 140px;
 }
 
@@ -194,7 +194,7 @@ li {
 }
 
 .profile_img {
-  margin: 50px auto 20px auto;
+  margin: 40px auto 20px auto;
   width: 20%;
 }
 
@@ -225,7 +225,7 @@ li {
 }
 
 .intro {
-  width: 30%;
+  width: 60%;
   margin: auto;
 }
 
@@ -244,7 +244,7 @@ li {
 }
 
 .skill-row {
-  width: 50%;
+  width: 60%;
   margin: 50px auto 60px auto;
   text-align: center;
 }
@@ -255,7 +255,7 @@ li {
 }
 
 .sayhello {
-  width: 40%;
+  width: 60%;
   margin: 40px auto 60px;
 }
 
